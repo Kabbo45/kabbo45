@@ -68,13 +68,12 @@
 
 <br/>  
 
-  
+<div align="center">
 
 <br/>  
 
+## Spotify
 
-<div align="center">
-## Spotify 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31olsdu7w65k2foeka5f3ktnhd44&cover_image=true&theme=compact" /> 
 
 <br/>  
