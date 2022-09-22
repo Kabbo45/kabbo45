@@ -1,7 +1,7 @@
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
 
-## I'm Tunazzinur Rahman Kabbo  
+### **<div align="center">I'm Tunazzinur Rahman Kabbo</div>**  
   
 
 <a href="https://github.com/kabbo45" target="_blank">
