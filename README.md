@@ -74,7 +74,7 @@
 
 
 
-<div align="center">### Spotify  
+<div align="center">## Spotify 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31olsdu7w65k2foeka5f3ktnhd44&cover_image=true&theme=compact" /></div>  
 
 <br/>  
@@ -86,6 +86,6 @@
 
 <br />
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
