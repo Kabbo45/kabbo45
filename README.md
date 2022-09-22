@@ -26,7 +26,12 @@
 
 
 ## Languages and Tools  
-<div align="center">  
+<div align="center">
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="25" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
@@ -42,13 +47,8 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a> 
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
 </div>  
 
@@ -74,7 +74,7 @@
 
 
 
-### Spotify  
+<div align="center">### Spotify  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31olsdu7w65k2foeka5f3ktnhd44&cover_image=true&theme=compact" /></div>  
 
 <br/>  
@@ -86,10 +86,6 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
----
-[![](https://visitcount.itsvg.in/api?id=Kabbo45&icon=0&color=12)](https://visitcount.itsvg.in)
