@@ -63,13 +63,6 @@
 <br/>  
 
 <div align="center">
-
-  
-
-<br/>  
-
-
-<br />
-
+<br/>
 ## Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)</div>
