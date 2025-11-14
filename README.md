@@ -1,7 +1,4 @@
-### <div align="center">I'm Tunazzinur Rahman Kabbo</div>  
-
-<br/>  
-  
+### <div align="center">I'm Tunazzinur Rahman Kabbo</div>
 ## Connect with me  
 <a href="https://github.com/kabbo45" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
